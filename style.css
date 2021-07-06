@@ -1,0 +1,40 @@
+body{
+    font-family: 'Noto Sans', sans-serif;
+}
+.flexible-section{
+    display: flex;
+}
+.head-words{
+    font-size: 50px;
+    color: rgb(77, 76, 76);
+}
+.highlight-word{
+    color: orange;
+}
+.half-width{
+    width: 50%;
+}
+.worlds-adjust{
+    padding: 3 0 3 3;
+    margin-top: 8% ;
+    margin-left: 5%;
+    
+}
+p{
+    color: rgba(0, 0, 0, 0.637);
+    font-size: 17px;
+    font-weight: 100;
+}
+.link-button{
+    text-decoration: none;
+    border-radius: 40px;
+    color: white;
+    background-image: linear-gradient(45deg,rgb(253, 141, 90),rgb(250, 85, 9));
+    padding: 20px 35px;
+    box-shadow: 1px 1px 7px tomato;
+    font-size: 18px;
+}
+div img{
+    width: 95%;
+    padding-left: 10%;
+}
