@@ -8,6 +8,12 @@ body{
     font-size: 50px;
     color: rgb(77, 76, 76);
 }
+.tag-word{
+    width: 30px;
+}
+.meddle-word{
+    text-align: center;
+}
 .highlight-word{
     color: orange;
 }
@@ -34,7 +40,11 @@ p{
     box-shadow: 1px 1px 7px tomato;
     font-size: 18px;
 }
-div img{
+.image{
     width: 95%;
     padding-left: 10%;
+}
+.description-section{
+    background-image: url(image/background.jpg);
+    background-repeat: no-repeat;
 }
