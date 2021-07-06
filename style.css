@@ -15,8 +15,7 @@ body{
     color: rgb(77, 76, 76);
 }
 .center-word{
-    text-align: center;
-    
+    text-align: center; 
 }
 .highlight-word{
     color: rgb(255, 94, 0);
@@ -29,10 +28,8 @@ body{
     background-repeat: no-repeat;
 }
 .worlds-adjust{
-   
     margin-top: 8% ;
-    margin-left: 3%;
-    
+    margin-left: 3%;  
 }
 p{
     color: rgba(0, 0, 0, 0.637);
@@ -96,5 +93,4 @@ footer{
 .social-section-adjust{
     width: 33.3%;
     text-align:center;
-
 }
