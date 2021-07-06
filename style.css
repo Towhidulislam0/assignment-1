@@ -19,15 +19,19 @@ body{
     
 }
 .highlight-word{
-    color: orange;
+    color: rgb(255, 94, 0);
 }
 .half-width{
     width: 50%;
 }
+.background-1{
+    background-image: url(image/bg-1.png);
+    background-repeat: no-repeat;
+}
 .worlds-adjust{
-    padding: 3 0 3 3;
+   
     margin-top: 8% ;
-    margin-left: 5%;
+    margin-left: 3%;
     
 }
 p{
@@ -45,12 +49,15 @@ p{
     font-size: 18px;
 }
 .image{
-    width: 95%;
-    padding-left: 7%;
-
+    width: 90%;
+    padding-left:7%;
 }
-.description-section{
-    background-image: url(image/background.jpg);
+.background-2{
+    background-image: url(image/bg-2.png);
+    background-repeat: no-repeat;
+}
+.background-3{
+    background-image: url(image/bg-3.jpg);
     background-repeat: no-repeat;
 }
 .box-section{
@@ -60,7 +67,7 @@ p{
     border-radius: 40px;
     margin-left: 3.3%;
     margin-right: 3.3%;
-    box-shadow: 0.2px 0.2px 20px rgb(206, 205, 205);
+    box-shadow: 0.2px 0.2px 20px rgb(189, 187, 187);
 }
 .box-image{
     width: 90%;
