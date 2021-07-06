@@ -77,3 +77,17 @@ footer{
 .white-word{
     color: white;
 }
+.social-section{
+    margin-top: 100px;
+    display: flex;
+    margin-left: 225px;
+    padding: 10px;
+    box-shadow: 1px 1px 15px grey;
+    width: 1080px;
+    border-radius: 20px;
+}
+.social-section-adjust{
+    width: 33.3%;
+    text-align:center;
+
+}
