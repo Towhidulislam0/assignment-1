@@ -1,5 +1,6 @@
 body{
-    font-family: 'Noto Sans', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    margin :0;
 }
 .flexible-section{
     display: flex;
@@ -7,12 +8,15 @@ body{
 .head-words{
     font-size: 50px;
     color: rgb(77, 76, 76);
+    font-weight: 900;
 }
 .tag-word{
-    width: 30px;
+    font-size: 30px;
+    color: rgb(77, 76, 76);
 }
-.meddle-word{
+.center-word{
     text-align: center;
+    
 }
 .highlight-word{
     color: orange;
@@ -42,9 +46,34 @@ p{
 }
 .image{
     width: 95%;
-    padding-left: 10%;
+    padding-left: 7%;
+
 }
 .description-section{
     background-image: url(image/background.jpg);
     background-repeat: no-repeat;
+}
+.box-section{
+    width: 26.7%;
+    height: 550px;
+    border:none;
+    border-radius: 30px;
+    margin-left: 3.3%;
+    margin-right: 3.3%;
+    box-shadow: 0.2px 0.2px 20px rgb(206, 205, 205);
+}
+.box-image{
+    width: 90%;
+    margin: 5% 5% 0% 5%;
+    border: none; 
+    border-radius: 15px;
+}
+footer{
+    background-color: black;
+    margin-top: 50px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.white-word{
+    color: white;
 }
